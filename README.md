@@ -1,0 +1,1 @@
+This repository contains all exercises from Launch School's "Introduction to Programming wity Ruby" book, organized by chapter.
